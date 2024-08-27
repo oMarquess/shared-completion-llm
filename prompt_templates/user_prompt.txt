@@ -1,1 +1,4 @@
 I'm thinking of the word: {word}. Can you tell me a joke with this word?
+
+
+Assuming we had a context >>> Use {{context}}
