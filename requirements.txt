@@ -1,0 +1,2 @@
+fastapi
+langchain-community==0.2.12
